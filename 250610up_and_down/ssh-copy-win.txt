@@ -1,0 +1,8 @@
+ssh-copy-id -i ~/.ssh/id_rsa_remote.pub nvidia@192.168.31.202
+
+从win拷贝到linux：
+type $env:USERPROFILE\.ssh\id_rsa_remote_win.pub | ssh jishilong@172.16.88.7 "cat >> ~/.ssh/authorized_keys && chmod 600 ~/.ssh/authorized_keys"
+测试：
+ssh -i $env:USERPROFILE\.ssh\id_rsa_remote_win jishilong@172.16.88.7
+进一步：文件名非默认，需要指定
+IdentityFile C:\Users\hp\.ssh\id_rsa_remote_win
