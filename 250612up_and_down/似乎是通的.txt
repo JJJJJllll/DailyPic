@@ -1,0 +1,7 @@
+不希望br action大 所以直接penalty它
+不希望br action波动大 所以加smoothness
+就限制了其幅度和波动
+
+而且问题就是action大且波动，所以直接限制action，而不是限制反馈值
+
+https://wandb.ai/jjjjjllll/Up_and_Down/runs/ucmfs5b5/overview
