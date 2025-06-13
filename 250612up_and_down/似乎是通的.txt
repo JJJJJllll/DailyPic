@@ -5,3 +5,5 @@
 而且问题就是action大且波动，所以直接限制action，而不是限制反馈值
 
 https://wandb.ai/jjjjjllll/Up_and_Down/runs/ucmfs5b5/overview
+
+加smo后并没更好。可能是因为br action已经很小、再加也没意义了。而且br action加DR后仍然很好，不需要smo
