@@ -1,0 +1,13 @@
+重1.7kg，7x5x3桨叶+6s 1550mah 120c电池+F90 1300kv电机，悬停油门32%
+
+log_132
+https://logs.px4.io/plot_app?log=834efa54-237f-441e-b304-ca63a25e08c2
+
+log_144 角速度max400°/s
+https://logs.px4.io/plot_app?plots=pid_analysis&log=edf4ba09-68ad-4170-8c77-1490f7522188     
+
+log_136 小电池续航3分钟
+https://logs.px4.io/plot_app?log=236fc4aa-0e39-4e72-ac2b-1f7adcc152fc
+
+log_143 大电池续航5分钟
+https://logs.px4.io/plot_app?log=10edc2cd-9e5e-4f6e-8fab-77757e8ef449
