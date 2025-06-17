@@ -1,0 +1,4 @@
+https://wandb.ai/jjjjjllll/SingleJuggle/runs/obxk4enm?nw=nwuserjjjjjllll
+
+
+在单个case上的能力没有下降 学到了一些接偏移的球
